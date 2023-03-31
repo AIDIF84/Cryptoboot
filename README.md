@@ -3,7 +3,7 @@ Cette application traite de l'analyse de l'évolution des prix d'une quinzaine d
 
 Pour lancer l'application :
 
-Télécharger le dossier OPA APP
-Lancer la commande docker-compose up et attendre le téléchargement
-L'application est accessible sur le navigateur de votre choix à l'addresse : http://localhost:8501
+- Télécharger le dossier OPA APP
+- Lancer la commande docker-compose up et attendre le téléchargement
+- L'application est accessible sur le navigateur de votre choix à l'addresse : http://localhost:8501
 Prérequis : Installer Docker desktop sur sa machine locale
